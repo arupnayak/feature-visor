@@ -3,7 +3,3 @@ conditions:
   - attribute: country
     operator: equals
     value: nl
-
-  - attribute: deviceId
-    operator: equals
-    value: iPhone
